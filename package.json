@@ -1,0 +1,11 @@
+{
+  "name": "dogears",
+  "version": "0.1.0",
+  "description": "anchor tag everything",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alizain Feerasta",
+  "license": "MIT"
+}
